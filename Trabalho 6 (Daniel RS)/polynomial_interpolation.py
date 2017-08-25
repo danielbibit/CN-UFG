@@ -1,3 +1,4 @@
+#Author: Daniel Moraes dos Santos
 import numpy as np
 import algebra
 

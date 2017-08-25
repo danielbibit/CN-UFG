@@ -1,3 +1,5 @@
+#Author: Pedro Ramos Krauze Diehl
+#Code refactoration and class creation: Daniel Moraes
 import numpy as np
 
 
